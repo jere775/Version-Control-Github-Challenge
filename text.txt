@@ -1,3 +1,3 @@
-1. Explain what the terminal is in your own words.
-2. What is the major difference between Git and Github?
-3. Why do we use Github?
+1. Explain what the terminal is in your own words? The terminal in my opinion is a tool that can be used for navigating through you computer's and entering data. It also allows shortcut commands for example it let you make a new file and directory in less then a minute with just a few simple commands.
+2. What is the major difference between Git and Github? Github is a website and acts as a hosting service and Git is basically a behind the scene tool that give you control over certain things. Git also can work even without Github.
+3. Why do we use Github? Github is used for many reason some of which are that GitHub is a hosting service and a platform created for developers. It is also a graphical interface and is open-source. Github allows the users to use it for free and let them have unlimited  repo.
